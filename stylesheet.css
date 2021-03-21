@@ -6,7 +6,9 @@
   list-style: none;
   text-decoration: none;
 }
-
+  body {
+    overflow-x: hidden;
+  }
 nav {
   display: flex;
   justify-content: space-around;
@@ -128,9 +130,6 @@ video {
 
 @media screen and (max-width: 768px) {
 
-  body {
-    overflow-x: hidden;
-  }
 
   .logo {
     margin-right: 5px;
