@@ -128,9 +128,9 @@ video {
 
 @media screen and (max-width: 768px) {
 
-/*   * {
+  body {
     overflow-x: hidden;
-  } */
+  }
 
   .logo {
     margin-right: 5px;
